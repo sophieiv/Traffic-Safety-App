@@ -1,5 +1,6 @@
 # Trafikkrisiko-app
-Denne appen har som hensikt å predikere veirisiko i norske fylker basert på værdata og tidligere ulykkeshistorikk.
+Appen ble laget i faget IN2000 - Software Engineering i samarbeid med meteorologisk institutt.
+Den har som hensikt å predikere veirisiko i norske fylker basert på værdata og tidligere ulykkeshistorikk.
 
 ## Funksjoner
 - Interaktivt kart over norske fylker (Risiko og vær begrenset til Oslo, Akershus, Buskerud, Østfold og Vestfold grunnet omfattende manuell håndtering av værdatahistorikk.)
