@@ -1,5 +1,5 @@
 # Trafikkrisiko-app
-Appen ble laget i faget IN2000 - Software Engineering i samarbeid med meteorologisk institutt.
+Appen ble laget i faget IN2000 - Software Engineering ved Universitetet i Oslo, i samarbeid med Meteorologisk Institutt.
 Den har som hensikt å predikere veirisiko i norske fylker basert på værdata og tidligere ulykkeshistorikk.
 
 ## Funksjoner
